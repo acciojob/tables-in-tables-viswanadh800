@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+
+table,th,tr,td{
+	border:1px solid black;
+}
+
+#special {
+	background-color:black;
+	color:white;
+}
